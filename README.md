@@ -23,20 +23,3 @@ Add a subtle shadow to a card-like div element.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## CSS BASIC STYLING 
-QUESTIONS:
